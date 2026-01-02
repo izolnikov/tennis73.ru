@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tennis73.ru/sitemap.xml
